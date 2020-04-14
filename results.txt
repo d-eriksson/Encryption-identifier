@@ -1,0 +1,1348 @@
+************************************
+Wed Feb 19 14:04:31 2020
+id: 0
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f65d126f9e8> 
+Number of layers: 5 
+32_hard_sigmoid 
+32_sigmoid 
+32_sigmoid 
+32_sigmoid 
+1_sigmoid 
+Highest diff: 1.7881393432617188e-07
+Average diff: 7.978574497493234e-09
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:05:09 2020
+id: 1
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f7c9a23f9e8> 
+Number of layers: 5 
+32_hard_sigmoid 
+32_sigmoid 
+32_sigmoid 
+32_sigmoid 
+1_sigmoid 
+Highest diff: 5.960464477539063e-08
+Average diff: 4.69327911617249e-10
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:08:10 2020
+id: 2
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fcb1baf99e8> 
+Number of layers: 5 
+32_hard_sigmoid 
+16_sigmoid 
+8_sigmoid 
+4_sigmoid 
+1_sigmoid 
+Highest diff: 0.012951791286468506
+Average diff: 0.00672974169078305
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:08:18 2020
+id: 3
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fcb1baf99e8> 
+Number of layers: 5 
+64_hard_sigmoid 
+32_sigmoid 
+16_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0016459226608276367
+Average diff: 0.0005110382313776384
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:08:28 2020
+id: 4
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fcb1baf99e8> 
+Number of layers: 5 
+128_hard_sigmoid 
+64_sigmoid 
+32_sigmoid 
+16_sigmoid 
+1_sigmoid 
+Highest diff: 5.960464477539062e-07
+Average diff: 2.3356725122321078e-07
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:08:34 2020
+id: 5
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fcb1baf99e8> 
+Number of layers: 3 
+32_hard_sigmoid 
+16_sigmoid 
+1_sigmoid 
+Highest diff: 4.172325134277344e-07
+Average diff: 2.0215488257996742e-07
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:08:39 2020
+id: 6
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fcb1baf99e8> 
+Number of layers: 2 
+16_hard_sigmoid 
+1_sigmoid 
+Highest diff: 0.07791057229042053
+Average diff: 0.015558172138907403
+95 percent certainty: 0.889763779527559
+************************************
+************************************
+Wed Feb 19 14:08:44 2020
+id: 7
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fcb1baf99e8> 
+Number of layers: 2 
+64_hard_sigmoid 
+1_sigmoid 
+Highest diff: 1.7881393432617188e-07
+Average diff: 2.4874379315714197e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:08:51 2020
+id: 8
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fcb1baf99e8> 
+Number of layers: 3 
+64_hard_sigmoid 
+16_sigmoid 
+1_sigmoid 
+Highest diff: 2.086162567138672e-07
+Average diff: 1.418976886717375e-07
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:17:43 2020
+id: 9
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fba2b418ba8> 
+Number of layers: 8 
+16_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0025504231452941895
+Average diff: 0.0007883620172525677
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:18:13 2020
+id: 10
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f1321bf8ba8> 
+Number of layers: 8 
+8_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0069321393966674805
+Average diff: 0.002131324032687218
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:21:52 2020
+id: 11
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f9a68b1cbe0> 
+Number of layers: 8 
+8_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 9.906291961669922e-05
+Average diff: 5.926764725435225e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:23:24 2020
+id: 12
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f56a963fbe0> 
+Number of layers: 8 
+8_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.010303735733032227
+Average diff: 0.0035593721109963075
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:25:51 2020
+id: 13
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 3 
+10_hard_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 8.928775787353516e-05
+Average diff: 3.157132796403621e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:25:57 2020
+id: 14
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 4 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.0034609436988830566
+Average diff: 0.0010630914650757016
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:26:05 2020
+id: 15
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 5 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 4.011392593383789e-05
+Average diff: 2.531336871842949e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:26:14 2020
+id: 16
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 6 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 1.8030405044555664e-05
+Average diff: 1.4809284755212116e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:26:24 2020
+id: 17
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 7 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 2.7239322662353516e-05
+Average diff: 1.4695060692576775e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:26:34 2020
+id: 18
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 8 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 5.245208740234375e-05
+Average diff: 3.3067957673214493e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:26:44 2020
+id: 19
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 9 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.00015801191329956055
+Average diff: 4.9766540325264055e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:26:54 2020
+id: 20
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4dc12bbbe0> 
+Number of layers: 10 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.0027983784675598145
+Average diff: 0.0008598987872410254
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:32:32 2020
+id: 21 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb755c58d68> 
+Number of layers: 11 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.0034637451171875
+Average diff: 0.0010748170594367158
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:32:45 2020
+id: 22 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb755c58d68> 
+Number of layers: 12 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.0001481771469116211
+Average diff: 9.345118113148107e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:32:58 2020
+id: 23 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb755c58d68> 
+Number of layers: 13 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.1538257598876953
+Average diff: 0.06625096919381712
+95 percent certainty: 0.6929133858267716
+************************************
+************************************
+Wed Feb 19 14:33:12 2020
+id: 24 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb755c58d68> 
+Number of layers: 14 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.6804807186126709
+Average diff: 0.43036569056548474
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Feb 19 14:33:26 2020
+id: 25 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb755c58d68> 
+Number of layers: 15 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.6830494105815887
+Average diff: 0.42937464812609155
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Feb 19 14:33:42 2020
+id: 26 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb755c58d68> 
+Number of layers: 16 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.6805867552757263
+Average diff: 0.4303248029524886
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Feb 19 14:33:58 2020
+id: 27 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb755c58d68> 
+Number of layers: 17 
+10_hard_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+10_sigmoid 
+1_sigmoid 
+Highest diff: 0.6829680800437927
+Average diff: 0.42940601636105635
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Feb 19 14:40:55 2020
+id: 28 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+2_hard_sigmoid 
+1_sigmoid 
+Highest diff: 0.5100606679916382
+Average diff: 0.32226172327173974
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Feb 19 14:41:01 2020
+id: 29 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+4_hard_sigmoid 
+1_sigmoid 
+Highest diff: 0.6683081388473511
+Average diff: 0.20095719080271685
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Feb 19 14:41:10 2020
+id: 30 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+8_hard_sigmoid 
+1_sigmoid 
+Highest diff: 0.024925827980041504
+Average diff: 0.010202102714647195
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:41:20 2020
+id: 31 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+16_hard_sigmoid 
+1_sigmoid 
+Highest diff: 0.3322659134864807
+Average diff: 0.01770499171667454
+95 percent certainty: 0.968503937007874
+************************************
+************************************
+Wed Feb 19 14:41:31 2020
+id: 32 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+32_hard_sigmoid 
+1_sigmoid 
+Highest diff: 0.1743616759777069
+Average diff: 0.009253056926709299
+95 percent certainty: 0.968503937007874
+************************************
+************************************
+Wed Feb 19 14:41:42 2020
+id: 33 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+64_hard_sigmoid 
+1_sigmoid 
+Highest diff: 1.3709068298339844e-06
+Average diff: 1.059509789718855e-07
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:41:59 2020
+id: 34 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+128_hard_sigmoid 
+1_sigmoid 
+Highest diff: 5.990266799926758e-06
+Average diff: 4.904476676400252e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:42:19 2020
+id: 35 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+256_hard_sigmoid 
+1_sigmoid 
+Highest diff: 2.592802047729492e-06
+Average diff: 3.0036986343503937e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:42:46 2020
+id: 36 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+512_hard_sigmoid 
+1_sigmoid 
+Highest diff: 5.364418029785156e-07
+Average diff: 2.3466395580862452e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:43:35 2020
+id: 37 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+1024_hard_sigmoid 
+1_sigmoid 
+Highest diff: 1.341104507446289e-06
+Average diff: 2.088509206696758e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:45:12 2020
+id: 38 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+2048_hard_sigmoid 
+1_sigmoid 
+Highest diff: 4.172325134277344e-07
+Average diff: 9.85588614396223e-09
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:48:05 2020
+id: 39 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+4096_hard_sigmoid 
+1_sigmoid 
+Highest diff: 6.258487701416016e-07
+Average diff: 1.196786174623985e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 14:53:17 2020
+id: 40 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+8192_hard_sigmoid 
+1_sigmoid 
+Highest diff: 1.7881393432617188e-07
+Average diff: 1.0090550099770854e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:03:52 2020
+id: 41 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f85e8c40d68> 
+Number of layers: 2 
+16384_hard_sigmoid 
+1_sigmoid 
+Highest diff: 1.7881393432617188e-07
+Average diff: 2.5813035138948696e-09
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:07:15 2020
+id: 42 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+2_sigmoid 
+1_sigmoid 
+Highest diff: 0.11958461254835129
+Average diff: 0.09336671379842157
+95 percent certainty: 0.30708661417322836
+************************************
+************************************
+Wed Feb 19 15:07:30 2020
+id: 43 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+4_sigmoid 
+1_sigmoid 
+Highest diff: 0.01144060492515564
+Average diff: 0.010680577945052169
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:07:44 2020
+id: 44 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0001475214958190918
+Average diff: 7.96357587857106e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:07:57 2020
+id: 45 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+16_sigmoid 
+1_sigmoid 
+Highest diff: 2.980232238769531e-07
+Average diff: 1.928827377852267e-07
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:08:11 2020
+id: 46 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+32_sigmoid 
+1_sigmoid 
+Highest diff: 1.7881393432617188e-07
+Average diff: 2.2527739757627952e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:08:26 2020
+id: 47 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+64_sigmoid 
+1_sigmoid 
+Highest diff: 1.7881393432617188e-07
+Average diff: 9.85588614396223e-09
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:08:46 2020
+id: 48 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+128_sigmoid 
+1_sigmoid 
+Highest diff: 0.0
+Average diff: 0.0
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:09:07 2020
+id: 49 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+256_sigmoid 
+1_sigmoid 
+Highest diff: 8.940696716308594e-08
+Average diff: 8.682566364919106e-09
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:09:35 2020
+id: 50 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f8beafa1d68> 
+Number of layers: 3 
+64_hard_sigmoid 
+512_sigmoid 
+1_sigmoid 
+Highest diff: 5.960464477539063e-08
+Average diff: 1.6895804818220964e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:11:34 2020
+id: 51 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+2_sigmoid 
+1_sigmoid 
+Highest diff: 0.19117403030395508
+Average diff: 0.09840358327340892
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Feb 19 15:11:47 2020
+id: 52 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+4_sigmoid 
+1_sigmoid 
+Highest diff: 0.009529948234558105
+Average diff: 0.004919177254911248
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:11:59 2020
+id: 53 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00024372339248657227
+Average diff: 0.0002341556294516873
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:12:16 2020
+id: 54 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+16_sigmoid 
+1_sigmoid 
+Highest diff: 6.854534149169922e-07
+Average diff: 4.902031684299958e-07
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:12:30 2020
+id: 55 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+32_sigmoid 
+1_sigmoid 
+Highest diff: 5.960464477539063e-08
+Average diff: 1.877311646468996e-09
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:12:48 2020
+id: 56 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+64_sigmoid 
+1_sigmoid 
+Highest diff: 5.960464477539063e-08
+Average diff: 1.6895804818220964e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:13:06 2020
+id: 57 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+128_sigmoid 
+1_sigmoid 
+Highest diff: 5.960464477539063e-08
+Average diff: 8.917230320727732e-09
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:13:26 2020
+id: 58 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+256_sigmoid 
+1_sigmoid 
+Highest diff: 5.960464477539063e-08
+Average diff: 9.38655823234498e-10
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 19 15:13:54 2020
+id: 59 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc6650d2d68> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+512_sigmoid 
+1_sigmoid 
+Highest diff: 3.8743019104003906e-07
+Average diff: 1.2906517569474348e-08
+95 percent certainty: 1.0
+************************************
+************************************
+Thu Feb 20 10:24:11 2020
+id: 60 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7faf6c81bc88> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00027751922607421875
+Average diff: 0.00017496451229502365
+95 percent certainty: 1.0
+************************************
+************************************
+Thu Feb 20 10:27:08 2020
+id: 61 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7ffba26cbcf8> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00014150142669677734
+Average diff: 8.808804515980213e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Thu Feb 20 10:31:10 2020
+id: 62 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb0b5cbdcf8> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00013524293899536133
+Average diff: 8.531477954055322e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Fri Feb 21 09:37:08 2020
+id: 63 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f071c42bcc0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.000286102294921875
+Average diff: 0.00015452236041846488
+95 percent certainty: 1.0
+************************************
+************************************
+Fri Feb 21 09:38:01 2020
+id: 64 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f26f294dcc0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00017517805099487305
+Average diff: 0.00010900413217600509
+95 percent certainty: 1.0
+************************************
+************************************
+Fri Feb 21 09:40:41 2020
+id: 65 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fe1a7e18c88> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00026088953018188477
+Average diff: 0.00015959690429690097
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 26 16:10:46 2020
+id: 66 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f664391bef0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00017958879470825195
+Average diff: 0.0001112844698854326
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Feb 26 16:11:44 2020
+id: 67 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fd677d14ef0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0014944076538085938
+Average diff: 0.0004630153560742835
+95 percent certainty: 1.0
+************************************
+************************************
+Thu Feb 27 11:30:47 2020
+id: 68 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f23d7a80ef0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0002021491527557373
+Average diff: 0.0001782496879381443
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 09:56:56 2020
+id: 69 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f03ba1c0860> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00023123621940612793
+Average diff: 0.00020013136276333615
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 10:01:37 2020
+id: 70 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f4647462898> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00012624263763427734
+Average diff: 7.109798323253067e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 10:03:08 2020
+id: 71 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f1be1f057f0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0002009868621826172
+Average diff: 0.00010655067571646014
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 10:32:41 2020
+id: 72 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7feaf0bd5b00> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0012957453727722168
+Average diff: 0.0004050909067693397
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 10:33:31 2020
+id: 73 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f7fbf9dba20> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00014346837997436523
+Average diff: 0.0001425015997676927
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 10:34:21 2020
+id: 74 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7f13540a4a90> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0017184317111968994
+Average diff: 0.00120360854789468
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 10:52:45 2020
+id: 75 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fb92a242710> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00021266937255859375
+Average diff: 0.00013408457703831584
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 11:29:23 2020
+id: 76 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fc8452e98d0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00016266107559204102
+Average diff: 0.00014406063902837142
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 11:30:30 2020
+id: 77 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fd3dcadf7f0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00019752979278564453
+Average diff: 0.00012444354556858408
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 11:31:34 2020
+id: 78 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7ffb844d87f0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00010761618614196777
+Average diff: 9.110523089876501e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Mon Mar  2 11:32:41 2020
+id: 79 
+Files in training data: 902
+Files in test data: 127
+Optimizer: RMSprop 
+Loss: <tensorflow.python.keras.losses.BinaryCrossentropy object at 0x7fa249ab27f0> 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00017261505126953125
+Average diff: 0.0001537612942780742
+95 percent certainty: 1.0
+************************************
