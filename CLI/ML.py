@@ -22,27 +22,27 @@ def prepare_data():
     #Training Data
     files = get_all_files_in_dir("Training")
     file_map = create_map(files)
-    map_to_file(file_map, "Training" + "_map")
+    map_to_file(file_map, "Data/Training_map")
     print("Training map done")
     for file_path, value in file_map.items():
         if(value == 1):
             encrypt_file(file_path)
     print("Training data encrypted")
-    extract_data_from_all_files("Training_data.txt", file_map )
+    extract_data_from_all_files("Data/Training_data.txt", file_map )
     print("Training data extracted")
     #Test Data
     files = get_all_files_in_dir("Test")
     file_map = create_map(files)
-    map_to_file(file_map, "Test_map")
+    map_to_file(file_map, "Data/Test_map")
     print("Test map done")
     for file_path, value in file_map.items():
         if(value == 1):
             encrypt_file(file_path)
     print("Test data encrypted")
-    extract_data_from_all_files("Test_data.txt", file_map )
+    extract_data_from_all_files("Data/Test_data.txt", file_map )
     print("Test data extracted")
 
-def train_model(layers,activationLayers,opti,lss):
+def train_model(layers,activationLayers,opti,lss,epochs):
 
     model = keras.Sequential()
     model.add(keras.layers.Dense(layers[0], activation=activationLayers[0], input_dim=10))
@@ -51,23 +51,23 @@ def train_model(layers,activationLayers,opti,lss):
 
     model.compile(optimizer=opti, loss=lss)
 
-    trainingDataInput, trainingDataOutput = read_data_from_file("Training_data.txt")
+    trainingDataInput, trainingDataOutput = read_data_from_file("Data/Training_data.txt")
     trainingInputTensor = tf.constant(trainingDataInput)
     trainingOutputTensor = tf.constant(trainingDataOutput)
-    model.fit(trainingInputTensor,trainingOutputTensor, batch_size=len(trainingDataInput), epochs=2000, shuffle=True)
+    model.fit(trainingInputTensor,trainingOutputTensor, batch_size=len(trainingDataInput), epochs=epochs, shuffle=True)
     keras.utils.plot_model(
         model,
-        to_file='model.png',
+        to_file='Data/model.png',
         show_shapes=True,
         show_layer_names=True,
         rankdir='LR',
         expand_nested=True,
         dpi=96
     )
-    testDataInput, testDataOutput = read_data_from_file("Test_data.txt")
+    testDataInput, testDataOutput = read_data_from_file("Data/Test_data.txt")
     testInputTensor = tf.constant(testDataInput)
     eval = model.predict(testInputTensor, batch_size=len(testDataInput))
-    save_results(layers, activationLayers, opti, lss, eval, testDataOutput, len(trainingDataInput))
+    save_results(layers, activationLayers, opti, lss, eval, testDataOutput, len(trainingDataInput), epochs)
     print(model.get_layer(index=0).weights)
     model.save('./models/latest', True)
     return model
@@ -84,8 +84,8 @@ def is_encrypted(filepath, model):
     InputTensor = tf.constant(data)
     prediction = model.predict(InputTensor)[0][0]
     return prediction
-def save_results(layers, activationLayers, optimizer, loss, evaluation, testDataAnswers, num_training_data):
-    f= open("results.txt","a+")
+def save_results(layers, activationLayers, optimizer, loss, evaluation, testDataAnswers, num_training_data, epochs):
+    f= open("Data/results.txt","a+")
     id = get_last_id()
     f.write("************************************\n")
     f.write (time.asctime( time.localtime(time.time()) ))
@@ -95,6 +95,7 @@ def save_results(layers, activationLayers, optimizer, loss, evaluation, testData
     f.write("Files in test data: %s\n" % len(testDataAnswers))
     f.write("Optimizer: %s \n" % optimizer)
     f.write("Loss: %s \n" % loss)
+    f.write("Epochs: %s \n" % str(epochs))
     f.write("Number of layers: %s \n" % len(layers))
     for i in range(0,len(layers)):
         f.write("%s_%s \n" % (layers[i], activationLayers[i]))
@@ -119,7 +120,7 @@ def save_results(layers, activationLayers, optimizer, loss, evaluation, testData
     f.write("95 percent certainty: %s\n" % ninety_fifth_percentile)
     f.write("************************************\n")
     f.close()
-    f = open("trunc_results.txt","a+")
+    f = open("Data/trunc_results.txt","a+")
     f.write(str(id))
     f.write('$')
     f.write(time.asctime( time.localtime(time.time())))
@@ -132,6 +133,8 @@ def save_results(layers, activationLayers, optimizer, loss, evaluation, testData
     f.write('$')
     f.write(str(loss))
     f.write('$')
+    f.write(str(epochs))
+    f.write('$')
     f.write(str(len(layers)))
     f.write('$')
     f.write(str(highest_diff))
@@ -142,7 +145,7 @@ def save_results(layers, activationLayers, optimizer, loss, evaluation, testData
     f.write('\n')
     f.close()
 def read_results(lines):
-    f=open('trunc_results.txt', 'r')
+    f=open('Data/trunc_results.txt', 'r')
     data = []
     idx = 0
     for line in f:
@@ -155,19 +158,23 @@ def read_results(lines):
             line_data["num_test_data"] = temp[3]
             line_data["optimizer"] = temp[4]
             line_data["loss"] = temp[5]
-            line_data["num_layers"] = temp[6]
-            line_data["highest_diff"] = temp[7]
-            line_data["average_diff"] = temp[8]
-            line_data["amount_over_ninety_five"] = temp[9]
+            line_data["epochs"] = temp[6]
+            line_data["num_layers"] = temp[7]
+            line_data["highest_diff"] = temp[8]
+            line_data["average_diff"] = temp[9]
+            line_data["amount_over_ninety_five"] = temp[10]
             data.append(line_data)
         idx+=1
     return(data)
     f.close()
 def get_last_id():
-    f=open('trunc_results.txt', 'r')
-    id = 0
-    for line in f:
-        id += 1
+    try:
+        f=open('Data/trunc_results.txt', 'r+')
+        id = 0
+        for line in f:
+            id += 1
+    except Exception:
+        id = 0
     return id
 def flatten_results(input, output, data):
     i = []
@@ -177,22 +184,26 @@ def flatten_results(input, output, data):
         o.append(float(d[output]))
     return(i,o)
 
-def print_fig(names ,figname, lines): 
+def print_fig(xAxis, yAxis ,figname, lines,title): 
+
     res =read_results(lines)
     fig, ax = plt.subplots()
-    for name in names:
-        input, output = flatten_results("id",name,res)
+    for name in yAxis:
+        input, output = flatten_results(xAxis,name,res)
         ax.plot(input, output, label=name)
     ax.legend()
+    plt.xlabel(xAxis)
+    plt.ylabel('Value')
+    plt.title(title)
 
     plt.savefig(figname+".png", dpi=512)
 
 #prepare_data()
 
-activationLayers = ["hard_sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid"]
-opti = 'RMSprop' # Best Performance
-lss = tf.keras.losses.BinaryCrossentropy() # Best Performance
-layers = [64,8,8,1]
+#activationLayers = ["hard_sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid","sigmoid"]
+#opti = 'RMSprop' # Best Performance
+#lss = tf.keras.losses.BinaryCrossentropy() # Best Performance
+#layers = [64,8,8,1]
 #model = train_model(layers,activationLayers,opti,lss)
 
 #model = load_latest_model()

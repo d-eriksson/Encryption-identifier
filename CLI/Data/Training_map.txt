@@ -1,0 +1,924 @@
+Training/blendhes.jpg$1
+Training/3306618.3314250.pdf$1
+Training/Mesh.png$0
+Training/skuffwdd172.jpg$1
+Training/skuffwdd25.jpg$1
+Training/rootReducer.js$1
+Training/selima-license.txt$1
+Training/skuffwdd197.jpg$0
+Training/808 Heat 197.wav$1
+Training/skuffwdd2.jpg$0
+Training/3375627.3375811.pdf$0
+Training/skuffwdd257.jpg$1
+Training/skuffwdd164.jpg$0
+Training/skuffwdd37.jpg$1
+Training/word03.doc$0
+Training/JFX.java$0
+Training/bender.jpg$0
+Training/808 Heat 117.wav$1
+Training/Sphere.java$0
+Training/808 Heat 056.wav$1
+Training/skuffwdd183.jpg$0
+Training/808 Heat 189.wav$0
+Training/EULA-Tyfomono-Bender-Font.pdf$0
+Training/808 Heat 181.wav$1
+Training/808 Heat 241.wav$0
+Training/808 Heat 064.wav$0
+Training/FricNoFric.png$1
+Training/skuffwdd137.jpg$1
+Training/hero-nils-coffee.jpg$0
+Training/Lamborginhi Aventador_diffuse.jpeg$1
+Training/808 Heat 015.wav$0
+Training/3306618.3314265.pdf$0
+Training/skuffwdd92.jpg$1
+Training/skuffwdd21.jpg$1
+Training/808 Heat 077.wav$0
+Training/Procedural_tree_generation_using_an_L_system(1).pdf$1
+Training/userDetailsReducer.js$1
+Training/libjavafx_font.so$1
+Training/skuffwdd190.jpg$1
+Training/skuffwdd178.jpg$1
+Training/19-Investment location.svg$1
+Training/808 Heat 162.wav$1
+Training/808 Heat 105.wav$0
+Training/skuffwdd186.jpg$1
+Training/Matane Swash.otf$0
+Training/skuffwdd205.jpg$1
+Training/skuffwdd230.jpg$1
+Training/Apricot_02_normal.png$0
+Training/skuffwdd188.jpg$0
+Training/skuffwdd129.jpg$1
+Training/808 Heat 168.wav$1
+Training/skuffwdd218.jpg$1
+Training/skuffwdd86.jpg$1
+Training/Animating_Humanoid_Faces (copy).pdf$1
+Training/skuffwdd73.jpg$0
+Training/skuffwdd19.jpg$0
+Training/jelytta-license.txt$1
+Training/javafx-swt.jar$0
+Training/Spirited Sans.ttf$0
+Training/skuffwdd234.jpg$1
+Training/Magnolia Script.pdf$0
+Training/skuffwdd13.jpg$1
+Training/skuffwdd214.jpg$0
+Training/skuffwdd50.jpg$1
+Training/808 Heat 226.wav$0
+Training/skuffwdd63.jpg$1
+Training/springs_2.png$0
+Training/Kitten-trial.ttf$0
+Training/elantra.blend$1
+Training/libavplugin-57.so$0
+Training/skuffwdd193.jpg$1
+Training/808 Heat 029.wav$0
+Training/skuffwdd224.jpg$0
+Training/Statuette.mtl$1
+Training/Kitten-Swash-trial.ttf$0
+Training/808 Heat 132.wav$1
+Training/808 Heat 196.wav$0
+Training/skuffwdd66.jpg$1
+Training/808 Heat 238.wav$0
+Training/skuffwdd120.jpg$0
+Training/3347449.3357490.pdf$1
+Training/wrdpdf.gif$0
+Training/Invesment_line_icon_48x48_px.eps$0
+Training/skuffwdd138.jpg$1
+Training/userDetailsAction.js$1
+Training/skuffwdd240.jpg$0
+Training/171124_B1_HD_001.mp4$1
+Training/skuffwdd259.jpg$1
+Training/Spirited Swashes.otf$1
+Training/3236644.3236650.pdf$0
+Training/808 Heat 106.wav$0
+Training/808 Heat 111.wav$0
+Training/skuffwdd15.jpg$1
+Training/808 Heat 059.wav$1
+Training/EULA Olexstudio.pdf$0
+Training/808 Heat 134.wav$0
+Training/jobOpeningsReducer.js$0
+Training/master.c$1
+Training/skuffwdd38.jpg$1
+Training/808 Heat 040.wav$1
+Training/javafx.properties$0
+Training/blendhes-license.txt$1
+Training/Swashes Bold.ttf$0
+Training/Houses_Pack.FBX$1
+Training/Plane.java$0
+Training/skuffwdd170.jpg$0
+Training/07-Investor.svg$0
+Training/skuffwdd106.jpg$1
+Training/App.scss$0
+Training/20-Option.png$0
+Training/30-conversation.svg$0
+Training/frutilla.jpg$0
+Training/hadfield.ttf$0
+Training/808 Heat 115.wav$1
+Training/skuffwdd191.jpg$0
+Training/TopImg (copy).jpg$1
+Training/Kitten-Swash-Bold-trial.ttf$0
+Training/21-grow.svg$1
+Training/skuffwdd152.jpg$1
+Training/808 Heat 172.wav$0
+Training/water.frag$0
+Training/190416_10_Drone1_04.mp4$1
+Training/808 Heat 160.wav$0
+Training/Selima .ttf$1
+Training/28-Css.png$1
+Training/808 Heat 225.wav$1
+Training/808 Heat 043.wav$1
+Training/808 Heat 079.wav$1
+Training/Sans Bold.ttf$1
+Training/808 Heat 012.wav$1
+Training/808 Heat 034.wav$1
+Training/3175502.3175504.pdf$0
+Training/JFX$2.class$1
+Training/wood.jpg$0
+Training/sansterdam.jpg$1
+Training/808 Heat 229.wav$0
+Training/InfinitePlane.class$1
+Training/808 Heat 024.wav$1
+Training/Sansterdam Demo.otf$1
+Training/skuffwdd79.jpg$1
+Training/springs_1.png$1
+Training/Frutilla Script.otf$0
+Training/3290605.3300469.pdf$1
+Training/tenta_October31_18.pdf$0
+Training/Camera.class$0
+Training/Monday Bay.ttf$0
+Training/808 Heat 231.wav$1
+Training/808 Heat 038.wav$1
+Training/808 Heat 167.wav$1
+Training/skuffwdd1.jpg$1
+Training/skuffwdd117.jpg$0
+Training/Curves.png$0
+Training/808 Heat 053.wav$0
+Training/808 Heat 139.wav$0
+Training/tenta_Oct26_17.pdf$0
+Training/Statuette.obj$0
+Training/store.js$0
+Training/2-Responsive.png$1
+Training/test.class$1
+Training/javafx.fxml.jar$1
+Training/Aprillia Script_TEST.ttf$0
+Training/Screenshot from 2019-10-11 14-47-43.png$1
+Training/skuffwdd139.jpg$1
+Training/water.tese$1
+Training/tile2.jpg$0
+Training/cluster.ps$0
+Training/skuffwdd149.jpg$1
+Training/skuffwdd62.jpg$0
+Training/Selima .otf$1
+Training/Apricot_02_glossiness.png$1
+Training/skuffwdd100.jpg$0
+Training/808 Heat 099.wav$1
+Training/808 Heat 150.wav$1
+Training/skuffwdd204.jpg$0
+Training/skuffwdd269.jpg$0
+Training/12-Manage capital.svg$0
+Training/skuffwdd123.jpg$1
+Training/sansterdam-license.txt$0
+Training/skuffwdd157.jpg$1
+Training/skuffwdd267.jpg$0
+Training/808 Heat 221.wav$1
+Training/LongTime.png$1
+Training/skuffwdd97.jpg$0
+Training/skuffwdd59.jpg$0
+Training/skuffwdd81.jpg$1
+Training/Sphere.class$0
+Training/1984674.1984684.pdf$0
+Training/Hair_Simulation.pdf$1
+Training/skuffwdd65.jpg$1
+Training/Anthasic (Free For Personal Use).ttf$0
+Training/skuffwdd146.jpg$1
+Training/Beautify Script.otf$1
+Training/sweet-buttermilk.jpg$0
+Training/block.png$1
+Training/hair.jpg$0
+Training/Object3D.java$1
+Training/skuffwdd242.jpg$0
+Training/milea-license.txt$1
+Training/Emissive.java$1
+Training/skuffwdd243.jpg$1
+Training/skuffwdd51.jpg$1
+Training/Screenshot from 2019-12-29 12-33-33.png$0
+Training/808 Heat 013.wav$0
+Training/808 Heat 026.wav$1
+Training/3278721.3278766.pdf$0
+Training/Pink+Script+R1.otf$0
+Training/elantra f.mtl$1
+Training/808 Heat 155.wav$0
+Training/skuffwdd46.jpg$0
+Training/808 Heat 185.wav$1
+Training/TentaAnteckningar.odt_0.odt$1
+Training/808 Heat 051.wav$1
+Training/skuffwdd103.jpg$0
+Training/skuffwdd185.jpg$1
+Training/hadfield strip.woff$1
+Training/808 Heat 248.wav$1
+Training/Invesment_color_icon_48x48_px-Expand.eps$0
+Training/Sydnee+Demo.otf$1
+Training/808 Heat 122.wav$1
+Training/skuffwdd124.jpg$1
+Training/skuffwdd10.jpg$1
+Training/skuffwdd220.jpg$1
+Training/image.png$0
+Training/skuffwdd194.jpg$1
+Training/skuffwdd67.jpg$0
+Training/808 Heat 065.wav$1
+Training/skuffwdd201.jpg$0
+Training/808 Heat 089.wav$0
+Training/MassSpring.png$0
+Training/10-Investment opportunity.svg$1
+Training/libglass.so$1
+Training/808 Heat 107.wav$1
+Training/ColorDbl.class$0
+Training/House_3.psd$1
+Training/skuffwdd237.jpg$1
+Training/method-draw-image.svg$1
+Training/808 Heat 183.wav$1
+Training/Manyland.ttf$1
+Training/808 Heat 121.wav$0
+Training/Beautiy Script FF EULA License.pdf$0
+Training/ProtectedPage.js$1
+Training/FREE FONT LICENSE.txt$0
+Training/magnolia.jpeg$1
+Training/16-Reserve fund.svg$1
+Training/Kitten-Monoline-trial.ttf$1
+Training/Screenshot from 2019-12-04 09-40-50.png$0
+Training/master$1
+Training/skuffwdd3.jpg$0
+Training/sweet-buttermilk-license.txt$0
+Training/808 Heat 228.wav$0
+Training/milea.jpg$1
+Training/Reflective.class$0
+Training/808 Heat 240.wav$1
+Training/skuffwdd11.jpg$0
+Training/808 Heat 232.wav$1
+Training/water.tesc$1
+Training/large.png$0
+Training/2639475.2639481.pdf$1
+Training/skuffwdd280.jpg$0
+Training/skuffwdd56.jpg$0
+Training/skuffwdd210.jpg$0
+Training/SantEliaRoughLine.otf$1
+Training/skuffwdd196.jpg$1
+Training/skuffwdd78.jpg$1
+Training/jelytta.png$1
+Training/82450000_752784315243720_4603492483547004928_n.jpg$1
+Training/808 Heat 153.wav$1
+Training/word01.doc$1
+Training/skuffwdd223.jpg$0
+Training/skuffwdd162.jpg$0
+Training/word06.doc$1
+Training/Microscope_5__Scientist__Videvo.mov$0
+Training/alessandria-license.txt$1
+Training/v.jar$0
+Training/rtf01.rtf$0
+Training/skuffwdd35.jpg$1
+Training/skuffwdd254.jpg$1
+Training/makefile$1
+Training/skuffwdd213.jpg$1
+Training/808 Heat 151.wav$0
+Training/skuffwdd87.jpg$1
+Training/skuffwdd174.jpeg$0
+Training/3278721.3278744.pdf$1
+Training/808 Heat 003.wav$1
+Training/skuffwdd221.jpg$0
+Training/libdecora_sse.so$1
+Training/skuffwdd155.jpg$1
+Training/808 Heat 007.wav$1
+Training/808 Heat 046.wav$1
+Training/3306618.3314238.pdf$0
+Training/skuffwdd133.jpg$0
+Training/daver561_Procedural_tree_generation_using_an_L_system.pdf$0
+Training/libprism_sw.so$0
+Training/annfr542-daver561-tsbk03.pdf$1
+Training/Bender TF Regular.ttf$0
+Training/libjfxwebkit.so$0
+Training/808 Heat 014.wav$1
+Training/Experimen3_2.png$0
+Training/skuffwdd116.jpg$1
+Training/808 Heat 123.wav$0
+Training/util.java$1
+Training/fibonaccy-journey.jpg$0
+Training/808 Heat 207.wav$0
+Training/ResultatSeminare$0
+Training/skuffwdd192.jpg$0
+Training/Apricot_02_hi_poly.obj$1
+Training/skuffwdd144.jpg$1
+Training/pinkscript.jpg$0
+Training/Triangle.java$0
+Training/Manyland.otf$0
+Training/808 Heat 234.wav$1
+Training/skuffwdd24.jpg$0
+Training/808 Heat 078.wav$1
+Training/skuffwdd136.jpg$0
+Training/skuffwdd274.jpg$1
+Training/aprillia.jpg$0
+Training/Camera.java$1
+Training/HashMap$HashNode.class$0
+Training/skuffwdd91.jpg$1
+Training/SaabÖversättning.txt$1
+Training/skuffwdd42.jpg$0
+Training/161021_04_CoffeeShop_RecordPlayer_1080p.mp4$0
+Training/util.class$0
+Training/808 Heat 206.wav$0
+Training/808 Heat 180.wav$1
+Training/skuffwdd263.jpg$1
+Training/skuffwdd161.jpg$0
+Training/monday-bay.jpg$0
+Training/808 Heat 140.wav$0
+Training/test.java$0
+Training/808 Heat 114.wav$1
+Training/skuffwdd110.jpg$0
+Training/lauren-license.txt$1
+Training/eurographics2016Fur_Smaller.pdf$1
+Training/lab3.frag$0
+Training/sphere.obj$1
+Training/Spirited Script.ttf$0
+Training/test.png$1
+Training/pdf01.pdf$1
+Training/Aveline Swash.otf$0
+Training/5-Responsive.png$1
+Training/Kitten-Light-trial.ttf$1
+Training/skuffwdd105.jpg$1
+Training/808 Heat 210.wav$1
+Training/libglassgtk2.so$1
+Training/Invesment_color_icon_48x48_px.eps$1
+Training/skuffwdd118.jpg$1
+Training/skuffwdd200.jpg$0
+Training/skuffwdd251.jpg$0
+Training/skuffwdd52.jpg$0
+Training/808 Heat 199.wav$1
+Training/2813536.2813543.pdf$0
+Training/jobOpeningsActions.js$0
+Training/skuffwdd141.jpg$0
+Training/808 Heat 098.wav$0
+Training/808 Heat 006.wav$1
+Training/Kitten-Swash-Light-trial.ttf$0
+Training/_Open_Highway_Long_Road_Winter.mp4$0
+Training/skuffwdd275.jpg$1
+Training/808 Heat 236.wav$1
+Training/808 Heat 143.wav$1
+Training/ekvation.png$1
+Training/skuffwdd140.jpg$0
+Training/skuffwdd94.jpg$0
+Training/skuffwdd156.jpg$0
+Training/webpack.config.js$0
+Training/Sweet Buttermilk Script Free.ttf$0
+Training/skuffwdd14.jpg$0
+Training/skuffwdd216.jpg$1
+Training/skuffwdd48.jpg$0
+Training/Spirited Serif.otf$1
+Training/808 Heat 165.wav$0
+Training/30-Development.png$0
+Training/4-Responsive.png$0
+Training/808 Heat 192.wav$1
+Training/808 Heat 214.wav$0
+Training/808 Heat 063.wav$0
+Training/skuffwdd232.jpg$0
+Training/Plane.class$0
+Training/skuffwdd202.jpg$1
+Training/skuffwdd160.jpg$1
+Training/808 Heat 025.wav$0
+Training/skuffwdd7.jpg$1
+Training/Fibonaccy-Journey-license.txt$1
+Training/12-Responsive.png$0
+Training/808 Heat 119.wav$0
+Training/808 Heat 193.wav$0
+Training/skuffwdd30.jpg$1
+Training/808 Heat 191.wav$0
+Training/Magnolia Script.otf$0
+Training/Apricot_02_diffuse.png$0
+Training/JFX$1.class$0
+Training/808 Heat 004.wav$1
+Training/808 Heat 083.wav$0
+Training/808 Heat 033.wav$1
+Training/3299758.3299765.pdf$0
+Training/808 Heat 070.wav$0
+Training/29-Design.png$0
+Training/808 Heat 073.wav$0
+Training/skuffwdd16.jpg$0
+Training/skuffwdd179.jpg$1
+Training/808 Heat 169.wav$1
+Training/skuffwdd8.jpg$1
+Training/motionplaces hong kong00007-Oct2018.mp4$0
+Training/808 Heat 090.wav$1
+Training/808 Heat 220.wav$0
+Training/HashMapSeperateChaining.class$1
+Training/25-Working Capital.svg$0
+Training/package-lock.json$0
+Training/808 Heat 161.wav$1
+Training/index.js$0
+Training/javafx.web.jar$1
+Training/808 Heat 010.wav$0
+Training/aveline-license.txt$1
+Training/Alessandria.ttf$1
+Training/Invesment_line_icon_48x48_px.ai$1
+Training/808 Heat 071.wav$0
+Training/workspace.mel$0
+Training/hadfield.woff$1
+Training/808 Heat 222.wav$0
+Training/808 Heat 246.wav$0
+Training/Script Bold.otf$1
+Training/skuffwdd12.jpg$1
+Training/808 Heat 060.wav$0
+Training/skuffwdd134.jpg$0
+Training/17-Responsive.png$0
+Training/Interpreter.png$1
+Training/skuffwdd22.jpg$1
+Training/libavplugin-ffmpeg-57.so$0
+Training/Hadfield Personal Use LIcense.pdf$1
+Training/808 Heat 072.wav$0
+Training/808-heat-sample-pack.jpg$1
+Training/808 Heat 124.wav$1
+Training/808 Heat 002.wav$1
+Training/skuffwdd4.jpg$1
+Training/Spirited Sans.otf$0
+Training/808 Heat 009.wav$1
+Training/Frutilla Script.ttf$1
+Training/3375627.3375831.pdf$1
+Training/libavplugin-ffmpeg-56.so$1
+Training/808 Heat 061.wav$0
+Training/index.scss$1
+Training/The Blendhes.otf$0
+Training/808 Heat 044.wav$1
+Training/Sweet Buttermilk Sans Free.otf$0
+Training/Glossy.java$1
+Training/2818498.2823472.pdf$0
+Training/skuffwdd130.jpg$1
+Training/skuffwdd168.jpg$1
+Training/Lamborghini_Aventador.fbx$0
+Training/808 Heat 011.wav$1
+Training/170216A_142_WomanWatchingWaterfall2_1080p.mp4$1
+Training/Matane Swash.ttf$0
+Training/hair-sg03final.pdf$0
+Training/skuffwdd235.jpg$1
+Training/808 Heat 203.wav$0
+Training/808 Heat 227.wav$0
+Training/808 Heat 198.wav$0
+Training/skuffwdd268.jpg$1
+Training/SantEliaRoughLineThr.otf$0
+Training/libavplugin-54.so$1
+Training/skuffwdd76.jpg$1
+Training/808 Heat 173.wav$0
+Training/skuffwdd226.jpg$1
+Training/skuffwdd148.jpg$1
+Training/JFX$3.class$1
+Training/808 Heat 126.wav$0
+Training/Glossy.class$1
+Training/3278721.3278771.pdf$0
+Training/Screenshot from 2019-10-02 16-01-15.png$1
+Training/skuffwdd39.jpg$1
+Training/skuffwdd166.jpg$0
+Training/skuffwdd126.jpg$0
+Training/Blusty Script Free.ttf$0
+Training/808 Heat 156.wav$1
+Training/808 Heat 020.wav$0
+Training/skuffwdd101.jpg$0
+Training/08-dividend.svg$1
+Training/skuffwdd187.jpg$0
+Training/Statuette_sheep_glossiness.png$0
+Training/808 Heat 108.wav$0
+Training/skuffwdd122.jpg$1
+Training/libglassgtk3.so$1
+Training/808 Heat 036.wav$0
+Training/808 Heat 100.wav$1
+Training/skuffwdd53.jpg$0
+Training/808 Heat 145.wav$1
+Training/skuffwdd250.jpg$1
+Training/skuffwdd273.jpg$0
+Training/3377290.3377317.pdf$0
+Training/808 Heat 045.wav$1
+Training/libprism_es2.so$1
+Training/808 Heat 242.wav$1
+Training/808 Heat 092.wav$0
+Training/Lauren-Regular.ttf$0
+Training/andora-license.txt$1
+Training/808 Heat 001.wav$1
+Training/Lamborginhi Aventador_gloss.jpeg$0
+Training/monday-bay-license.txt$1
+Training/Vatten.png$1
+Training/skuffwdd112.jpg$1
+Training/skuffwdd169.jpg$1
+Training/26-Responsive.png$1
+Training/Yoda.png$1
+Training/skuffwdd265.jpg$0
+Training/HashMap.java$1
+Training/Landmarks.png$1
+Training/tenta_May30_18.pdf$0
+Training/808 Heat 125.wav$1
+Training/skuffwdd246.jpg$1
+Training/3320254.3320262.pdf$0
+Training/skuffwdd165.jpg$1
+Training/skuffwdd198.jpg$1
+Training/skuffwdd88.jpg$0
+Training/skuffwdd182.jpg$0
+Training/libprism_common.so$1
+Training/libjavafx_font_freetype.so$1
+Training/19-Responsive.png$0
+Training/pdf03.pdf$1
+Training/skuffwdd264.jpg$0
+Training/808 Heat 094.wav$0
+Training/Invesment_line_icon_48x48_px-Expand.ai$0
+Training/bollar.png$0
+Training/808 Heat 042.wav$1
+Training/skuffwdd74.jpg$0
+Training/skuffwdd45.jpg$0
+Training/skuffwdd99.jpg$0
+Training/libjavafx_font_pango.so$0
+Training/TentaAnteckningar.odt$0
+Training/skuffwdd69.jpg$1
+Training/skuffwdd145.jpg$0
+Training/808 Heat 170.wav$0
+Training/maryland.jpg$0
+Training/808 Heat 175.wav$1
+Training/808 Heat 095.wav$0
+Training/3137574.3137576.pdf$0
+Training/Network_Backup_with_Bacula_How-To.pdf$0
+Training/808 Heat 158.wav$0
+Training/valerissa-license.txt$1
+Training/Spirited Script.otf$0
+Training/Genetic_algorithm_daver561.pdf$1
+Training/Blusty Script Free.otf$1
+Training/paper_1_isaja187.pdf$0
+Training/pdf06-weirdchars.pdf$0
+Training/skuffwdd151.jpg$1
+Training/skuffwdd249.jpg$0
+Training/skuffwdd71.jpg$1
+Training/libavplugin-56.so$0
+Training/06-Graph.svg$1
+Training/808 Heat 230.wav$1
+Training/skuffwdd239.jpg$0
+Training/Invesment_color_icon_48x48_px-Expand.ai$0
+Training/808 Heat 148.wav$1
+Training/facit_May30_18.pdf$1
+Training/808 Heat 067.wav$1
+Training/sydnee-license.txt$1
+Training/Milea+Demo.ttf$1
+Training/808 Heat 136.wav$1
+Training/808 Heat 110.wav$1
+Training/Machine Learning Based File Entropy Analysis for Ransomware Detection in Backup Systems.pdf$0
+Training/HashMap.class$1
+Training/anthasic.jpg$1
+Training/Kitten-Bold-trial.ttf$1
+Training/Project_Plan_daver561.pdf$1
+Training/skuffwdd96.jpg$1
+Training/aveline.jpg$0
+Training/808 Heat 075.wav$1
+Training/808 Heat 190.wav$1
+Training/HashMapSeperateChaining$HashNode.class$1
+Training/808 Heat 032.wav$1
+Training/Statuette_sheep_specular.png$1
+Training/808 Heat 182.wav$1
+Training/skuffwdd255.jpg$1
+Training/Steps.png$1
+Training/word05.doc$0
+Training/Matane - Demo.otf$0
+Training/HashMapSeperateChaining.java$1
+Training/skuffwdd208.jpg$0
+Training/Lauren-Regular.woff2$1
+Training/skuffwdd248.jpg$0
+Training/3306618.3314281.pdf$0
+Training/808 Heat 057.wav$0
+Training/11-Responsive.png$1
+Training/wallpaper3k.png$0
+Training/808 Heat 035.wav$1
+Training/3375627.3375817.pdf$0
+Training/skuffwdd54.jpg$0
+Training/logo.svg$0
+Training/808 Heat 144.wav$0
+Training/Experiment3.png$0
+Training/808 Heat 120.wav$1
+Training/Kitten-Slant-trial.ttf$0
+Training/808 Heat 159.wav$0
+Training/Kitten-Family-CC-BY-NCLicensepdf.pdf$1
+Training/808 Heat 112.wav$1
+Training/skuffwdd167.jpg$1
+Training/App.test.js$1
+Training/Material.java$0
+Training/13-Responsive.png$0
+Training/808 Heat 128.wav$0
+Training/package.json$0
+Training/808 Heat 048.wav$0
+Training/skuffwdd256.jpg$1
+Training/23-Joint investment.svg$0
+Training/kitten.gif$1
+Training/skuffwdd83.jpg$0
+Training/808 Heat 152.wav$1
+Training/router.js$0
+Training/808 Heat 138.wav$0
+Training/808 Heat 201.wav$1
+Training/808 Heat 039.wav$1
+Training/808 Heat 251.wav$1
+Training/skuffwdd47.jpg$0
+Training/PNGEncoder.class$0
+Training/Serif Bold.ttf$1
+Training/House_2.psd$0
+Training/water.geom$1
+Training/andora.jpg$0
+Training/InfinitePlane.java$1
+Training/808 Heat 216.wav$0
+Training/808 Heat 066.wav$0
+Training/skuffwdd175.jpg$0
+Training/05-chart money.svg$1
+Training/Screenshot from 2020-01-20 21-58-22.png$1
+Training/808 Heat 082.wav$1
+Training/daver561_Procedural_tree_generation_using_an_L_system (copy).pdf$1
+Training/22-Investment illustration.svg$1
+Training/808 Heat 103.wav$0
+Training/Swashes Bold.otf$1
+Training/808 Heat 017.wav$0
+Training/serviceWorker.js$0
+Training/808 Heat 047.wav$0
+Training/skuffwdd219.jpg$1
+Training/9-Web Design.png$1
+Training/808 Heat 118.wav$0
+Training/skuffwdd27.jpeg$1
+Training/Jelytta.ttf$0
+Training/skuffwdd228.jpg$0
+Training/808 Heat 239.wav$1
+Training/21-Responsive.png$1
+Training/Kitten-Thin-trial.ttf$1
+Training/808 Heat 021.wav$1
+Training/15-Responsive.png$0
+Training/README.md$0
+Training/skuffwdd245.jpg$1
+Training/808 Heat 055.wav$0
+Training/skuffwdd43.jpg$1
+Training/skuffwdd60.jpg$0
+Training/skuffwdd158.jpg$1
+Training/29-Real estate investment.svg$1
+Training/808 Heat 218.wav$1
+Training/13-Increase the cost.svg$0
+Training/skuffwdd114.jpg$1
+Training/cubes.jpeg$0
+Training/808 Heat 233.wav$0
+Training/skybox.frag$1
+Training/Material.class$0
+Training/skuffwdd173.jpg$0
+Training/Emissive.class$0
+Training/Apricot_02_specular.png$1
+Training/808 Heat 208.wav$1
+Training/skuffwdd261.jpg$0
+Training/Spirited Swashes.ttf$0
+Training/Kitten-Slant-Monoline-trial.ttf$1
+Training/808 Heat 030.wav$0
+Training/3054837.3054841.pdf$0
+Training/Statuette_sheep_diffuse.png$0
+Training/808 Heat 157.wav$0
+Training/808 Heat 217.wav$1
+Training/skuffwdd31.jpg$0
+Training/808 Heat 149.wav$1
+Training/808 Heat 019.wav$1
+Training/skuffwdd147.jpg$1
+Training/skuffwdd253.jpg$1
+Training/Screenshot from 2019-09-13 12-48-27.png$0
+Training/3306618.3314227.pdf$1
+Training/javafx.media.jar$1
+Training/7-Responsive.png$1
+Training/808 Heat 200.wav$1
+Training/808 Heat 130.wav$1
+Training/skuffwdd279.jpg$1
+Training/skuffwdd102.jpg$1
+Training/808 Heat 049.wav$0
+Training/Spirited Serif.ttf$0
+Training/matane.jpg$0
+Training/EULA-Sophistica.txt$0
+Training/3098888.3098890.pdf$1
+Training/skuffwdd49.jpg$1
+Training/Serif Bold.otf$0
+Training/808 Heat 068.wav$0
+Training/skuffwdd225.jpg$1
+Training/skuffwdd40.jpg$1
+Training/skuffwdd64.jpg$0
+Training/skuffwdd171.jpg$0
+Training/Apricot_02_hi_poly.mtl$0
+Training/The Blendhes.ttf$0
+Training/808 Heat 154.wav$0
+Training/skuffwdd244.jpg$1
+Training/SantEliaScriptBoldDEMO.otf$1
+Training/Sweet Buttermilk Script Free.otf$0
+Training/Ray.class$0
+Training/Screenshot from 2019-12-29 14-03-16.png$1
+Training/libgstreamer-lite.so$0
+Training/808 Heat 131.wav$0
+Training/Kitten-Swash-Thin-trial.ttf$0
+Training/808 Heat 135.wav$0
+Training/skuffwdd113.jpg$1
+Training/808 Heat 062.wav$1
+Training/808 Heat 127.wav$1
+Training/16-Responsive.png$1
+Training/End-User License Agreement Frutilla Script.pdf$1
+Training/808 Heat 084.wav$0
+Training/ColorDbl.java$0
+Training/808 Heat 174.wav$1
+Training/routes.js$0
+Training/skuffwdd29.jpg$0
+Training/cofee_machine.max$1
+Training/Valerissa Personal Use.ttf$1
+Training/skuffwdd212.jpg$1
+Training/Kitten-Slant-Bold-trial.ttf$1
+Training/808 Heat 171.wav$0
+Training/BankID_7.15.21.65_CUSTOMERTEST.apk$1
+Training/House_4.psd$0
+Training/808 Heat 245.wav$1
+Training/808 Heat 109.wav$0
+Training/skuffwdd142.jpg$0
+Training/SetSailStudiosEULA.pdf$1
+Training/808 Heat 091.wav$1
+Training/Network_Backup_with_Bacula_How-To (copy).pdf$0
+Training/skuffwdd33.jpg$1
+Training/skuffwdd215.jpg$0
+Training/Statuette_sheep_normal.png$1
+Training/signs.jpg$1
+Training/javafx.swing.jar$0
+Training/Andora+Demo.ttf$1
+Training/tile1.jpg$0
+Training/facit_May29_19.pdf$0
+Training/170609_C_Agra_040_1.mp4$1
+Training/Triangle.class$1
+Training/images.jpeg$0
+Training/langmodl.ps$1
+Training/skuffwdd217.jpg$0
+Training/Kitten-Swash-Monoline-trial.ttf$1
+Training/Lauren-Regular.woff$0
+Training/808 Heat 215.wav$0
+Training/skuffwdd258.jpg$1
+Training/Scene.class$0
+Training/Matane - Demo.ttf$1
+Training/Kitten-Swash-Black-trial.ttf$0
+Training/04-Profit.svg$0
+Training/3306618.3314250 (1).pdf$0
+Training/skuffwdd58.jpg$1
+Training/808 Heat 141.wav$0
+Training/alessandria.jpg$1
+Training/ToDo.txt$0
+Training/180503_02_PurpleGrid.mp4$0
+Training/Object3D.class$1
+Training/skuffwdd36.jpg$0
+Training/skuffwdd229.jpg$1
+Training/skuffwdd189.jpg$1
+Training/skuffwdd195.jpg$0
+Training/libfxplugins.so$0
+Training/808 Heat 213.wav$0
+Training/808 Heat 018.wav$1
+Training/water.vert$1
+Training/skuffwdd55.jpg$1
+Training/skuffwdd154.jpg$1
+Training/1-Responsive.png$0
+Training/skuffwdd61.jpg$0
+Training/808 Heat 250.wav$1
+Training/3098888.3098892.pdf$1
+Training/2993363.3006043.pdf$0
+Training/808 Heat 113.wav$0
+Training/808 Heat 164.wav$1
+Training/10-Responsive.png$0
+Training/soundpacks.com.url$0
+Training/YDS Desktop License 1-user.pdf$1
+Training/Lauren-Regular.otf$0
+Training/hadfield strip.ttf$1
+Training/808 Heat 205.wav$0
+Training/Anthasic (Free For Personal Use).otf$1
+Training/808 Heat 096.wav$1
+Training/Fibonaccy Journey ( Personal Use).ttf$0
+Training/tile.jpg$1
+Training/lauren.jpeg$0
+Training/808 Heat 249.wav$0
+Training/808 Heat 069.wav$0
+Training/808 Heat 187.wav$1
+Training/lab3.vert$1
+Training/Pants.png$0
+Training/Bender TF Bold.otf$1
+Training/skuffwdd119.jpeg$0
+Training/santelia.png$1
+Training/6-Browser.png$0
+Training/808 Heat 074.wav$1
+Training/skuffwdd231.jpg$1
+Training/skuffwdd128.jpg$1
+Training/libjfxmedia.so$0
+Training/skuffwdd177.jpg$0
+Training/8-Responsive.png$1
+Training/skuffwdd247.jpg$1
+Training/Invesment_line_icon_48x48_px-Expand.eps$1
+Training/SantEliaRoughLineTwo.otf$0
+Training/Lamborginhi Aventador_spec.jpeg$1
+Training/Bender TF Regular.otf$0
+Training/808 Heat 188.wav$1
+Training/27-Responsive.png$0
+Training/808 Heat 223.wav$1
+Training/WebGL@1.0.0$0
+Training/bump_napis.jpg$1
+Training/808 Heat 211.wav$0
+Training/808 Heat 052.wav$1
+Training/26-Investment connection.svg$0
+Training/11- Income.svg$0
+Training/Aveline Script.ttf$0
+Training/javafx.base.jar$1
+Training/3347122.3371380.pdf$1
+Training/skuffwdd207.jpg$1
+Training/skuffwdd68.jpg$0
+Training/skuffwdd270.jpg$0
+Training/808 Heat 184.wav$1
+Training/Tree.png$0
+Training/01-Bank.svg$1
+Training/paper_1_isaja187 (copy).pdf$0
+Training/elantra f.obj$0
+Training/14-Option.png$0
+Training/skuffwdd17.jpg$0
+Training/skuffwdd150.jpg$1
+Training/skuffwdd180.jpg$0
+Training/808 Heat 176.wav$0
+Training/top1.jpg$1
+Training/skuffwdd262.jpg$1
+Training/skuffwdd70.jpg$1
+Training/skuffwdd9.jpg$0
+Training/18-Reserve fund.svg$0
+Training/25-Responsive.png$1
+Training/808 Heat 166.wav$0
+Training/18-Web Design.png$1
+Training/skuffwdd109.jpg$1
+Training/808 Heat 243.wav$1
+Training/808 Heat 129.wav$0
+Training/personal-use-license.txt$0
+Training/skuffwdd184.jpg$0
+Training/skuffwdd132.jpg$0
+Training/skuffwdd108.jpg$0
+Training/808 Heat 235.wav$1
+Training/skuffwdd26.jpg$0
+Training/skuffwdd272.jpg$1
+Training/28-Travel investment.svg$0
+Training/808 Heat 041.wav$0
+Training/808 Heat 088.wav$0
+Training/808 Heat 023.wav$1
+Training/skuffwdd32.jpg$1
+Training/3278721.3278801.pdf$1
+Training/skuffwdd233.jpg$0
+Training/EvilTest1.png$0
+Training/808 Heat 146.wav$1
+Training/skuffwdd153.jpg$0
+Training/skuffwdd72.jpg$0
+Training/README.txt$1
+Training/3306618.3314320.pdf$0
+Training/facit_October31_18.pdf$1
+Training/808 Heat 202.wav$1
+Training/skuffwdd236.jpg$1
+Training/skuffwdd34.jpg$0
+Training/sydnee.jpg$1
+Training/808 Heat 116.wav$0
+Training/3306618.3314258.pdf$0
+Training/09-Design investment plan.svg$1
+Training/House_1.psd$0
+Training/skuffwdd80.jpg$1
+Training/808 Heat 177.wav$0
+Training/808 Heat 133.wav$1
+Training/valerissa.jpg$0
+Training/facit_Oct26_17.pdf$1
+Training/hadfield.png$0
+Training/808 Heat 179.wav$0
+Training/kaffe.jpg$1
+Training/skuffwdd23.jpg$0
+Training/skuffwdd241.jpg$1
+Training/skuffwdd20.jpg$1
+Training/3-Responsive.png$0
+Training/3306618.3314227 (1).pdf$1
+Training/808 Heat 080.wav$1
+Training/27-Protection.svg$0
+Training/808 Heat 104.wav$0
+Training/808 Heat 058.wav$0
+Training/skuffwdd206.jpg$1
+Training/808 Heat 101.wav$1
+Training/Screenshot from 2019-11-05 10-39-58.png$0
+Training/pdf05-notext.pdf$1
+Training/808 Heat 097.wav$1
+Training/808 Heat 137.wav$0
+Training/808 Heat 085.wav$1
+Training/skuffwdd278.jpg$0
+Training/skuffwdd211.jpg$0
+Training/03-Skyscraper.svg$0
+Training/24-Responsive.png$1
+Training/20-Customer email.svg$0
+Training/808 Heat 027.wav$1
+Training/808 Heat 050.wav$1
+Training/skuffwdd222.jpg$1
+Training/808 Heat 204.wav$0
+Training/skuffwdd104.jpg$0
+Training/808 Heat 163.wav$0
+Training/webpack$0
+Training/skuffwdd77.jpg$1
+Training/180607_A_101.mp4$1
+Training/javafx.controls.jar$0
+Training/skuffwdd159.jpg$1
+Training/skuffwdd90.jpg$0
+Training/manyland-license.txt$1
+Training/skuffwdd271.jpg$0
+Training/skuffwdd41.jpg$0
+Training/PNGEncoder.java$0
+Training/skuffwdd85.jpg$1
+Training/libjavafx_iio.so$1
+Training/808 Heat 086.wav$1
+Training/skuffwdd163.jpg$1
+Training/Invesment_color_icon_48x48_px.ai$1
+Training/3278721.3278806.pdf$0
+Training/skuffwdd127.jpg$1
+Training/blusty-license.txt$0
+Training/Script Bold.ttf$0

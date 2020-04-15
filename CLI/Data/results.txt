@@ -1,0 +1,187 @@
+************************************
+Wed Apr 15 16:28:46 2020
+id: 0 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 10 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.5479885935783386
+Average diff: 0.4839747945467631
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Apr 15 16:29:28 2020
+id: 1 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 50 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.48231828212738037
+Average diff: 0.4417815370219094
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Apr 15 16:29:35 2020
+id: 2 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 100 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.5061497688293457
+Average diff: 0.349100357010251
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Apr 15 16:29:45 2020
+id: 3 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 150 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.4055511951446533
+Average diff: 0.3424274518376305
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Apr 15 16:29:56 2020
+id: 4 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 250 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.2859475016593933
+Average diff: 0.24820542931556702
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Apr 15 16:30:06 2020
+id: 5 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 500 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.07972365617752075
+Average diff: 0.06477260901814415
+95 percent certainty: 0.0
+************************************
+************************************
+Wed Apr 15 16:30:41 2020
+id: 6 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 750 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.021999120712280273
+Average diff: 0.02072765486580985
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Apr 15 16:30:57 2020
+id: 7 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 800 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.01596936583518982
+Average diff: 0.0156818687915802
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Apr 15 16:31:11 2020
+id: 8 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 1000 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.003794342279434204
+Average diff: 0.003729596847136106
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Apr 15 16:31:31 2020
+id: 9 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 1250 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0018544791964814067
+Average diff: 0.001537176538702278
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Apr 15 16:31:46 2020
+id: 10 
+Files in training data: 924
+Files in test data: 105
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Epochs: 1500 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.0005777180194854736
+Average diff: 0.0005685039928981236
+95 percent certainty: 1.0
+************************************

@@ -4,6 +4,7 @@ import binascii
 from entropy import calculate_entropy
 from random import random
 
+
 def create_map(fileList):
     map = {}
     for file in fileList:
@@ -51,7 +52,7 @@ def delete_all_files_in_dir(folder):
 def data_from_file(path):
     file = open(path, "br")
     data = []
-    data.append(path.split('.')[-1])
+    data.append(path.split('.')[-1]) # Check if there is no filetype and leave it undefined.
     data.append(calculate_entropy(path))
     for i in range(0,8):
         data.append(int.from_bytes(file.read(1), byteorder='little'))
@@ -93,17 +94,22 @@ def read_data_from_file(path):
         data.append(temp_data)
     file.close()
     return data,answers
-def backup(originalPath, backupPath):
+def backup(originalPath, backupPath, model):
+    
     for (dirpath, dirnames, filenames) in walk(originalPath):
         for file in filenames:
             pathName =  dirpath +'/' + file
             directory = dirpath +'/'
-
-            newPathName = directory.strip(originalPath)
-            newPathName = backupPath + newPathName
-            if not path.exists(newPathName):
-                mkdir(newPathName)
-            copy(pathName, newPathName)
+            enc_risk = is_encrypted(pathName,model)
+            print(str(round(enc_risk,2)))
+            if enc_risk < 0.99:
+                newPathName = directory.strip(originalPath)
+                newPathName = backupPath + newPathName
+                if not path.exists(newPathName):
+                    mkdir(newPathName)
+                copy(pathName, newPathName)
+            else:
+                print(pathName + " is encrypted!")
 
 
 def divide_test_and_trainging_data(originalPath, testPath, trainingPath):
@@ -123,8 +129,8 @@ def divide_test_and_trainging_data(originalPath, testPath, trainingPath):
                 mkdir(newPathName)
             copy(pathName, newPathName)
 file_types = {}
-file_types = file_to_map("file_types.txt")
+file_types = file_to_map("Data/file_types.txt")
 def stringToInt(s):
     if not s in file_types:
-        file_types[s] = append_to_file("file_types.txt", s)
+        file_types[s] = append_to_file("Data/file_types.txt", s)
     return file_types[s]
