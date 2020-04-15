@@ -1,0 +1,32 @@
+************************************
+Wed Apr 15 11:40:54 2020
+id: 0 
+Files in training data: 923
+Files in test data: 106
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 7.241964340209961e-05
+Average diff: 7.186070928033793e-05
+95 percent certainty: 1.0
+************************************
+************************************
+Wed Apr 15 11:42:51 2020
+id: 1 
+Files in training data: 923
+Files in test data: 106
+Optimizer: RMSprop 
+Loss: binary_crossentropy 
+Number of layers: 4 
+64_hard_sigmoid 
+8_sigmoid 
+8_sigmoid 
+1_sigmoid 
+Highest diff: 0.00012826919555664062
+Average diff: 9.233715207061186e-05
+95 percent certainty: 1.0
+************************************
