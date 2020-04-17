@@ -26,37 +26,50 @@ def config(args):
     write_config.add_section("Paths")
     write_config.set("Paths","root",args.root)
     write_config.set("Paths","backup_path", args.backup_path)
-
-    cfgfile = open("my.ini",'w')
+    print(args.root)
+    cfgfile = open("my.ini",'w+')
     write_config.write(cfgfile)
     cfgfile.close()
 def readConfig():
     read_config = configparser.ConfigParser()
     read_config.read("my.ini")
 
-    originalPath = read_config.get("Paths", "root")
+    root = read_config.get("Paths", "root")
     backupPath = read_config.get("Paths", "backup_path")
-    return originalPath, backupPath
+    return root, backupPath
 
 def backup_data(args):
     model = load_latest_model()
-    for (dirpath, dirnames, filenames) in walk(args.originalPath):
+    for (dirpath, dirnames, filenames) in walk(args.rootPath):
         for file in filenames:
             pathName =  dirpath +'/' + file
             directory = dirpath +'/'
             enc_risk = is_encrypted(pathName,model)
             if enc_risk < 0.99:
-                newPathName = directory.strip(args.originalPath)
+                newPathName = directory.strip(args.rootPath)
                 newPathName = args.backupPath + newPathName
                 if not path.exists(newPathName):
                     mkdir(newPathName)
+                #print("pathName: " + pathName + " - newPathName: " + newPathName)
                 copy(pathName, newPathName)
             else:
                 if args.abort:
                     print("Found encrypted file aborting backup")
                     return
-                print(pathName + " is encrypted!")
-
+                if args.restore:
+                    BackupFilePath = args.backupPath + directory.strip(args.rootPath) + file
+                    copy(BackupFilePath, dirpath + '/')
+                #print(pathName + " is encrypted!")
+def check_for_encrypted_files(args):
+    model = load_latest_model()
+    encryptedFiles = 0
+    for(dirpath, dirnames, filenames) in walk(args.checkPath):
+        for file in filenames:
+            enc_risk = is_encrypted(dirpath + '/' + file, model)
+            if not enc_risk < 0.99:
+                encryptedFiles += 1
+    
+    print("There are " + str(encryptedFiles) + " encrypted files in " + args.checkPath)
 def train(args):
     activationLayers = []
     layers = []
@@ -78,7 +91,7 @@ def test(args):
     enc = is_encrypted(args.file, model)
     print(str(round(enc,3)) + "% chance of encryption")
 def figure(args):
-    print_fig(args.x, args.y, args.figure_name, [args.figure_start,args.figure_end], args.figure_title)
+    print_fig(args.x, args.y, args.figure_name, [int(args.figure_start),int(args.figure_end)], args.figure_title)
 
 def main():
     
@@ -89,7 +102,8 @@ def main():
                     'prepare' : prepare,
                     'backup' : backup_data,
                     'config' : config,
-                    'figure': figure, }
+                    'figure': figure,
+                    'check' : check_for_encrypted_files}
     parser.add_argument('command', choices=FUNCTION_MAP.keys())
 
     parser.add_argument('--file',action="store", dest="file", help="Path to file. [test]")
@@ -100,9 +114,13 @@ def main():
     parser.add_argument('--epochs',action="store", dest="epochs", type=int, default=2000, help="Set the loss function. [train]")
 
     parser.add_argument('--abort',action="store_true", dest="abort", default=False,help="Aborts backup as soon one encrypted file is found. [backup]")
+    parser.add_argument('--restore',action="store_true", dest="restore", default=False,help="Restores encrypted files from backup if found while backing up non-encrypted files. [backup]")
 
     parser.add_argument('--root', action="store", dest="root", default="Test",help="Set root path for backup. [config]" )
     parser.add_argument('--backup_path', action="store", dest="backup_path",default="Backup", help="Set backup path for backup. [config]")
+
+
+    parser.add_argument('--check_path', action="store", dest="checkPath",default="BackupTest", help="Set path for checking number of encrypted files. [config]")
 
     parser.add_argument('--y', action="append", dest="y", default=["average_diff", "highest_diff"], help="Set fields for x in figure.. [figure]")
     parser.add_argument('--x', action="store", dest="x", default="id", help="Set field for x in figure. [figure]")
@@ -114,7 +132,7 @@ def main():
     
     args = parser.parse_args()
 
-    args.originalPath, args.backupPath = readConfig()
+    args.rootPath, args.backupPath = readConfig()
 
     func = FUNCTION_MAP[args.command]
     func(args)
